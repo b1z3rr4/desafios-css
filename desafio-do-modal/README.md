@@ -1,7 +1,7 @@
-# Desafio: Criando um Modal com <dialog> e :target
+# Desafio: Criando um Modal com HTML e CSS
 
 ## Explicação
-Utilizando apenas elementos HTML e propriedades CSS, crie um site que possua um botão que ao clicar nele abra um modal e no modal tenha um outro botão que feche ele mesmo.
+Neste desafio, seu objetivo é criar um site utilizando apenas elementos HTML e propriedades CSS. O site deve conter um botão que, ao ser clicado, abre um modal. Dentro do modal, deve haver outro botão que permita fechar o modal.
 
 ## Resultado
 
