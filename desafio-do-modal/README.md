@@ -11,7 +11,7 @@ Neste desafio, seu objetivo é criar um site utilizando apenas elementos HTML e 
 
 - Utilize a tag ```<dialog>``` do HTML para criar o modal
 
-- Utilize a pseudo classe ```:target``` do CSS para criar o efeito de abrir e fechar o modal
+- Utilize a pseudo-classe ```:target``` do CSS para criar o efeito de abrir e fechar o modal
 
 ## Uso
 
