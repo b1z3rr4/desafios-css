@@ -27,7 +27,7 @@ A tag ```<dialog>``` permite criar modais dentro de uma página HTML de forma na
 ````html
 <dialog id="modal" open>
   <h2>Dialog</h2>
-  <p>Este dialog comum</p>
+  <p>Este é um dialog comum</p>
 </dialog>
 ````
 
