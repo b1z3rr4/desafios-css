@@ -1,19 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modal com HTML e CSS</title>
-    <!-- Importe seu arquivo CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div>
         <!-- Coloque aqui o botão para abrir o modal -->
-    </div>
+         <a href="#modal" class="link">Abrir modal</a>
+
 
     <!-- Coloque seu modal aqui -->
+    <dialog id="modal" class="modal" open>
+        <div class="modal-paper">
+            <a href="#">Fechar Modal</a>
+            <h1>Meu modal</h1>
+            <p>Esse é meu modal</p>
+        </div>
+    </dialog>
 </body>
 
 </html>
