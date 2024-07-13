@@ -5,15 +5,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modal com HTML e CSS</title>
-    <!-- Importe seu arquivo CSS -->
+     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div>
-        <!-- Coloque aqui o botão para abrir o modal -->
-    </div>
+    <dialog id="modal">
+        <h2>Dialog</h2>
+        <p>Este é um dialog comum</p>
+        <a href="#" class="close-btn"><b>Fechar</b></a>
+    </dialog>
 
-    <!-- Coloque seu modal aqui -->
+    <button>
+        <a href="#modal" class="open-modal">Abrir modal</a>
+    </button> 
+    
+     
 </body>
 
 </html>
